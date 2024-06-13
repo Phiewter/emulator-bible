@@ -1,6 +1,6 @@
 # Emulator Bible
 
-Common## Nintendo
+## Nintendo
 
 ### Switch
 - **Ryujinx**
